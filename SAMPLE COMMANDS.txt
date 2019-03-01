@@ -1,0 +1,13 @@
+python client.py http://www.gsfdcy.com/data/img1/60/1826675-natur-wallpaper.jpg wall.jpg 2 not
+
+
+python client.py http://www.pakistan.gov.pk/images/pmpicture.jpg 3 resume
+
+
+LOCALHOST
+
+python client.py http://localhost:8080/audo.mp4 video.mp4 3 not
+
+
+setting up server first cd myhttpdrive
+then
